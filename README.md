@@ -6,3 +6,4 @@ added this line from branch feature1
 
 on branch dev:
 test stash oo oo oo oo
+test2 dev add a line
