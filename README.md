@@ -6,3 +6,5 @@ added this line from branch feature1
 
 on branch dev:
 test stash oo oo oo oo
+
+line from gittest3
